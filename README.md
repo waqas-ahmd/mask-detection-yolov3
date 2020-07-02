@@ -1,4 +1,4 @@
-# mask-detection-yolov3
+# Mask Detection using YOLOv3
 
 This python code detects the faces wearing the mask or not, using the WebCam.
 To use it,.. you are required to download the file named 'mask_detection.weight' from this link: https://bit.ly/2VCJKZy.
